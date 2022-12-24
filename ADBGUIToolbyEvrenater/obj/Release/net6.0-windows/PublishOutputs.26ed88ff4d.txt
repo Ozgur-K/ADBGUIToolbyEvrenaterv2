@@ -1,0 +1,5 @@
+C:\Users\vok00\Desktop\qwerty\ADBGUIToolbyEvrenater.exe
+C:\Users\vok00\Desktop\qwerty\ADBGUIToolbyEvrenater.dll
+C:\Users\vok00\Desktop\qwerty\ADBGUIToolbyEvrenater.deps.json
+C:\Users\vok00\Desktop\qwerty\ADBGUIToolbyEvrenater.runtimeconfig.json
+C:\Users\vok00\Desktop\qwerty\ADBGUIToolbyEvrenater.pdb

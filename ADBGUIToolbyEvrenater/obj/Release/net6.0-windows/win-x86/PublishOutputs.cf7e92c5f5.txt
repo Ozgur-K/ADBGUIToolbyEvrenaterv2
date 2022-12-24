@@ -1,0 +1,7 @@
+C:\Users\ozgur\Downloads\adbguitool2\ADBGUIToolbyEvrenater.pdb
+C:\Users\ozgur\Downloads\adbguitool2\D3DCompiler_47_cor3.dll
+C:\Users\ozgur\Downloads\adbguitool2\PenImc_cor3.dll
+C:\Users\ozgur\Downloads\adbguitool2\PresentationNative_cor3.dll
+C:\Users\ozgur\Downloads\adbguitool2\vcruntime140_cor3.dll
+C:\Users\ozgur\Downloads\adbguitool2\wpfgfx_cor3.dll
+C:\Users\ozgur\Downloads\adbguitool2\ADBGUIToolbyEvrenater.exe

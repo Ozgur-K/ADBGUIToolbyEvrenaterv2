@@ -1,0 +1,5 @@
+C:\Users\ozgur\Downloads\adbguitool\ADBGUIToolbyEvrenater.exe
+C:\Users\ozgur\Downloads\adbguitool\ADBGUIToolbyEvrenater.dll
+C:\Users\ozgur\Downloads\adbguitool\ADBGUIToolbyEvrenater.deps.json
+C:\Users\ozgur\Downloads\adbguitool\ADBGUIToolbyEvrenater.runtimeconfig.json
+C:\Users\ozgur\Downloads\adbguitool\ADBGUIToolbyEvrenater.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5m/vdYZY/qHnDKG4wWQxt61Ce1F3dD4zwaBat1NVP1komR59uJ1qvVjhJMUlHiNm8Q5T12TcEv3k8VE7YyXvXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozgur\\source\\repos\\ADBGUIToolbyEvrenater\\ADBGUIToolbyEvrenater\\ADBGUIToolbyEvrenater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozgur\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.11\\microsoft.netcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\ozgur\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.11\\microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
